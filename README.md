@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 💼 I'm currently working as a Software Engineer at Amazon
+- 💼 I'm a Software Engineer at Amazon
 - ❤️ My areas of interest are: designing large-scale systems, backend development, distributed computing, containerization, cloud computing, and machine learning
-- 🌱 I’m currently learning Generative AI (duh!)
-- 📫 How to reach me: ratedrrisabh@gmail.com
+- 🌱 I’m currently learning about LLMs and Generative AI (duh!)
+- 📫 You can reach me at: ratedrrisabh@gmail.com
 
 <!--
 **risabhRizz/risabhRizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
